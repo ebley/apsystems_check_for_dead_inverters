@@ -1,0 +1,10 @@
+{
+  "MailSettings": {
+    "fromAddress": "your@email.com",
+    "smtpServer": "smtp.yourserver.com",
+    "smtpUser": "your_user@name_here.com",
+    "smtpPs": "your_pw",
+    "emailTo": "who_you_want_to_send_it_to@yourcompany.com",
+    "emailPort" : 465
+  }
+}

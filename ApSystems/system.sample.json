@@ -1,0 +1,9 @@
+{
+  "SystemSettings": {
+    "app": "your_app_id_here",
+    "s": "your_api_secret_here",
+    "sid": "your_system_id_here",
+    "eid": "your_ECU_id_here",
+    "apiRoot": "https://api.apsystemsema.com:9282"
+  }
+}
